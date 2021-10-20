@@ -1,0 +1,18 @@
+body {
+background-color:     
+}
+h1{
+    color:#0f0e0e;
+    text-align: center;
+    font-family: 'Calistoga', cursive;
+    font-size: 60;
+}
+.left {
+    float:left;
+    Width:25%;
+    height: 350px;
+    background-color: #D71920
+}
+.header{
+    background-color: #FFFFFF
+}
