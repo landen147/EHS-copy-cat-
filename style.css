@@ -1,18 +1,52 @@
 body {
 background-color:     
 }
-h1{
+h1 {
     color:#0f0e0e;
     text-align: center;
     font-family: 'Calistoga', cursive;
     font-size: 60;
 }
+.header {
+    background-color: #FFFFFF;
+}
 .left {
     float:left;
-    Width:25%;
+    Width:33.33%;
     height: 350px;
-    background-color: #D71920
+    background-color: #D71920;
 }
-.header{
-    background-color: #FFFFFF
+
+.center {
+    float:left;
+    width: 33.3%;
+    height: 350px;
+    background-color: #C0C0C0;
+}
+.right {
+   color: #ffffff;
+    float:left;
+   width: 33.33%;
+    height:350px;
+   background-color: #11336A;
+   
+}
+
+img {
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer {
+    background-color: #FFFFFF;
+    height: 10px;
+    
+    
+}
+
+.bottom {
+    
+    background-color: #D71920;
+    display:inline-block;
 }
