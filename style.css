@@ -1,5 +1,5 @@
 body {
-background-color:     
+background-color: #D71920;    
 }
 h1 {
     color:#0f0e0e;
@@ -9,6 +9,8 @@ h1 {
 }
 .header {
     background-color: #FFFFFF;
+    height: 100px;
+    width: 100%
 }
 .left {
     float:left;
@@ -38,15 +40,23 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-.footer {
+.foot {
     background-color: #FFFFFF;
-    height: 10px;
+    height: px;
     
     
 }
 
 .bottom {
-    
+    float: right;
     background-color: #D71920;
     display:inline-block;
+    width: 100%;
+    height: 2999px;
 }
+
+a {
+    text-decoration: none;
+    
+}
+      
